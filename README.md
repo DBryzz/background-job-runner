@@ -27,9 +27,7 @@ This project implements a background job runner system in a Laravel application,
    ```bash
    git clone https://github.com/DBryzz/background-job-runner.git
    cd background-job-runner.git
-   git checkout version-1
-
-
+   git checkout main
 
 ## Usage
 
